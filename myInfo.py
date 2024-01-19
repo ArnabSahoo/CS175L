@@ -7,3 +7,5 @@
 print('Arnab Sahoo')
 print('123 Park Avenue, New York, 10001')
 print('Telephone Number: 732-123-4567')
+print('College Major: Computer Science')
+
