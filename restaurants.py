@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  6 10:09:04 2024
 
-@author: arnab
-"""
+#CS175
+
+#Arnab Sahoo
+
+#restaurant
+
 
 vegetarian = input('Is anyone in your party vegetarian? (Yes or No): ')
 vegan = input('Is anyone in your party vegan? (Yes or No): ')
