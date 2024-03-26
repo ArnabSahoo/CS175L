@@ -1,4 +1,8 @@
-# AverageFromInput.py
+#CS175
+
+#Arnab Sahoo
+
+#AverageFromInput.py
 
 def main():
     total = 0
